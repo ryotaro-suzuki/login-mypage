@@ -1,0 +1,68 @@
+body{
+    margin: 0 auto;
+    background-color: #f8f8f8;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    box-shadow: 2px 2px 4px lightgray;
+    text-align: center;
+}
+
+header img{
+    margin-top: 15px;
+    height: 50px;
+    padding-left: 40px;
+}
+
+.login{
+    float: right;
+    margin-top: 50px;
+    margin-right: 20px;
+    font-size: 14px;
+}
+
+main{
+    clear: left;
+    width: 100%;
+}
+
+.confirm{
+    margin: 0 auto;
+    border: lightgray solid 2px;
+    width: 450px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 4px 4px 4px lightgray;
+}
+
+.form_contents{
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+}
+
+p{
+    text-align: center;
+}
+
+.modoru{
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    color: gray;
+    text-align: center;
+    line-height: 40px;
+    font-size: 13px;
+    border-top: lightgray solid 2px;
+}
